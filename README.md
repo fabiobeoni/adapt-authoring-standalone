@@ -1,4 +1,4 @@
-# Standalone Application to run AdaptLearning Authoring Tool.
+# Standalone Launcher for AdaptLearning Authoring Tool.
 
 <p><b>Are you an instructional designer or courseware-developer who wants to try/work with AdaptLearning Authoring tool, but you find too difficult to install and run the tool? Try this application!</b></p>
 
