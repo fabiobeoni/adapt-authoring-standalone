@@ -16,7 +16,7 @@
     <img src="docs/anim.gif" alt="Adapt Notes, student takes notes on e-learning course" />
 </p>
 
-**License**
+**License:**
 
 <p>This utility is released under the same licence of <a href="http://www.adaptlearning.org" target="_blank">AdaptLearning Authoring Tool</a>.</p>
 
