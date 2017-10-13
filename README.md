@@ -7,7 +7,7 @@
 **Easy install:**
 
 <ol>
-<li>Download the application: <a href="#" target="_blank">adapt.zip<a/></li>
+<li>Download the application: <a href="https://github.com/fabiobeoni/adapt-authoring-standalone/releases/download/1.0/adapt.zip" target="_blank">adapt.zip<a/></li>
 <li>Move the "adapt.zip" file under your <b>"C:\"</b> drive, and unzip it</li>
 <li>Double click on "Start.exe"</li>
 </ol>
