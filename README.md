@@ -28,7 +28,7 @@
     <img src="adaptlearning-authoring-on-localhost.jpg" alt="Standalone Launcher for AdaptLearning Authoring Tool" />
 </p>
 
-**License and Guarantee:**
+**License and Warranty:**
 
 <p>This software is released under the same licence of <a href="http://www.adaptlearning.org" target="_blank">AdaptLearning Authoring Tool</a>.</p>
 <p>This software is free to use and given "as is" without any guarantee. Downloading and using it you confirm that you understand and accept this condition.</p>
