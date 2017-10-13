@@ -12,8 +12,18 @@
 <li>Double click on "Start.exe"</li>
 </ol>
 
+<p>That's it!</p>
+
+<p>The standalone launcher opens and displays the following window:</p>
+
 <p>
-    <img src="docs/anim.gif" alt="Adapt Notes, student takes notes on e-learning course" />
+    <img src="adaptlearning-authoring-standalone-setup-windows.jpg" alt="Standalone Launcher for AdaptLearning Authoring Tool" />
+</p>
+
+<p>So you can manage the AdaptLearning Authoring Tool just clicking on the "start"/"stop" buttons, and access it by your favorite browser.</p>
+
+<p>
+    <img src="adaptlearning-authoring-on-localhost.jpg" alt="Standalone Launcher for AdaptLearning Authoring Tool" />
 </p>
 
 **License:**
