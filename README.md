@@ -15,7 +15,7 @@
 <p>The standalone launcher opens and displays the following window:</p>
 
 <p>
-    <img src="adaptlearning-authoring-standalone-setup-windows.jpg" alt="Standalone Launcher for AdaptLearning Authoring Tool" />
+    <img width="30%" src="adaptlearning-authoring-standalone-setup-windows.jpg" alt="Standalone Launcher for AdaptLearning Authoring Tool" />
 </p>
 
 <p>So you can manage the AdaptLearning Authoring Tool <b>just clicking on the "start"/"stop" buttons</b>, and access it by your favorite browser.</p>
@@ -23,7 +23,7 @@
 <p>A <b>default admin user</b> is available to login. User: <b>admin@admin.com</b>   Password: <b>admin</b></p>
 
 <p>
-    <img src="adaptlearning-authoring-on-localhost.jpg" alt="Standalone Launcher for AdaptLearning Authoring Tool" />
+    <img width="30%"  src="adaptlearning-authoring-on-localhost.jpg" alt="Standalone Launcher for AdaptLearning Authoring Tool" />
 </p>
 
 **Note**
