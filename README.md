@@ -30,7 +30,7 @@
 <p><img width="30%" src="windows-firewall-popup.png" /></p>
 
 **Help and Notes**
-<p>Adapt Authoring Tool version 0.2</p>
+<p>The Adapt Authoring Tool version included with this launcher is version 0.2</p>
 <p>Slow PCs may need some time before the browser can actually show the AdaptLearning Authoring page</p>
 <p>Some browsers may stop opeining popups: please enable opening popup when requested by the browser to correctly display the course preview.</p>
 
