@@ -30,6 +30,7 @@
 <p><img width="30%" src="windows-firewall-popup.png" /></p>
 
 **Help and Notes**
+<p>Adapt Authoring Tool version 0.2</p>
 <p>Slow PCs may need some time before the browser can actually show the AdaptLearning Authoring page</p>
 <p>Some browsers may stop opeining popups: please enable opening popup when requested by the browser to correctly display the course preview.</p>
 
@@ -44,5 +45,6 @@
 
 ----------------------------
 **Version number:**  1.0.0
+**Adapt Authoring Tool versions:**  = 0.2
 **Adapt Framework versions:**  >= 2.0
 **Author:** <a href="https://it.linkedin.com/in/fabio-beoni-6a7848101" target="_blanck">Fabio Beoni</a>
