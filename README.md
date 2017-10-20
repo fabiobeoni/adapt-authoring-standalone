@@ -26,9 +26,12 @@
     <img width="30%"  src="adaptlearning-authoring-on-localhost.jpg" alt="Standalone Launcher for AdaptLearning Authoring Tool" />
 </p>
 
-**Note**
+**Help and Notes**
 <p>Slow PCs may need some time before the browser can actually show the AdaptLearning Authoring page</p>
 <p>Some browsers may stop opeining popups: please enable opening popup when requested by the browser to correctly display the course preview.</p>
+<p>Windows Firewall may popup the following window while runnig Adapt for the first time:</p>
+<p><img /></p>
+<p>Just click on "Cancel" button to proceed.</p>
 
 **License and Warranty:**
 
