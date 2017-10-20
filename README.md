@@ -1,4 +1,4 @@
-# Standalone Launcher for AdaptLearning Authoring Tool.
+# Standalone Launcher for AdaptLearning Authoring Tool (Beta).
 
 <p><b>Are you an instructional designer or courseware-developer who wants to try/work with <a href="http://www.adaptlearning.org" target="_blank">AdaptLearning Authoring Tool</a> and you find too difficult to install and run the tool? Try this Standalone Launcher!</b></p>
 
