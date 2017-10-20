@@ -4,11 +4,11 @@
 
 <p>The AdaptLearning Authoring Tool Standalone Launcher is a utility that makes <b>easy to run the AdaptLearning Authoring tool</b> in you computer with few clicks.</p>
 
-**Easy install (Windows 7/8/10 only, soon MAC and Linux):**
+**Easy install (Windows 7/8/10 64bit, soon MAC and Linux):**
 
 <ol>
-<li>Download the application: <a href="https://github.com/fabiobeoni/adapt-authoring-standalone/releases/download/v1.0-beta.1/adapt.zip" target="_blank">adapt.zip<a/> (about 490MB)</li>
-<li><b>Move the "adapt.zip" file under your "C:\" drive, and unzip it</b> (about 1.5GB unziped)</li>
+<li>Download the application: <a href="https://github.com/fabiobeoni/adapt-authoring-standalone/releases/download/v1.0-beta.1/adapt.zip" target="_blank">adapt.zip</a> (about 490MB)</li>
+<li><b><u>Move the "adapt.zip" file under your "C:\" drive, and unzip it</u></b> (about 1.5GB unziped)</li>
 <li>Double click on "Start.exe"</li>
 </ol>
 
