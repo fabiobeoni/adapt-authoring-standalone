@@ -8,7 +8,7 @@
 
 <ol>
 <li>Download the application: <a href="https://github.com/fabiobeoni/adapt-authoring-standalone/releases/download/v1.0-beta.1/adapt.zip" target="_blank">adapt.zip<a/> (about 490MB)</li>
-<li><b>Move the "adapt.zip" file <u>under your "C:\"</u> drive, and <u>unzip it</u></b> (about 1.5GB unziped)</li>
+<li><b>Move the "adapt.zip" file under your "C:\" drive, and unzip it</b> (about 1.5GB unziped)</li>
 <li>Double click on "Start.exe"</li>
 </ol>
 
