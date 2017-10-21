@@ -30,7 +30,7 @@
 <p><img width="30%" src="windows-firewall-popup.png" /></p>
 
 **Help and Notes**
-<p>The Adapt Authoring Tool version included with this launcher is version 0.2</p>
+<p>The Adapt Authoring Tool version included with this launcher is version 0.2. <b>Please be aware that</b> currently AdaptLearning Authoring Tool (AT) does not have a function to export a course created with it to another AT instance. So you can create courses and publish them on a LMS/web site, but you cannot export your course to edit and make changes to it with another installation of the AT. The export/import feature from/to the AT is in the road-map for the version 0.4 of the AT, <a href="https://www.adaptlearning.org/index.php/adapt-authoring-tool/#1448832205915-b2de9657-49d6">as described in the main Adapt project</a></p>
 <p>Slow PCs may need some time before the browser can actually show the AdaptLearning Authoring page</p>
 <p>Some browsers may stop opeining popups: please enable opening popup when requested by the browser to correctly display the course preview.</p>
 
